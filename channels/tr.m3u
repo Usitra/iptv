@@ -111,6 +111,8 @@ https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" group-title="",Power Türk
 http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/D9qgyRf/o-power-tv-hd-logo-20190821234518.png" group-title="",POWER HD
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" group-title="",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
